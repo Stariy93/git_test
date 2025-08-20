@@ -5,3 +5,4 @@ class Write():
 test = Write()
 
 test.write('Hello World !')
+test.write('New version')
