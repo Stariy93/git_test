@@ -1,6 +1,6 @@
 class Write():
     def write(self, text):
-        print(text)
+        print(text + ' New branch')
 
 test = Write()
 
